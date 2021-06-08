@@ -1,0 +1,17 @@
+{
+  "title": "Hitman",
+  "description": "Kenzaki Ryuunosuke is a new editor for Weekly Shounen Magazine, but his love for an unpopular series gets him no love with his coworkers. He meets Takanashi Tsubasa, an aspiring mangaka, and seeks to prove himself by making her the number one manga artist in Japan.",
+  "artist": "Seo Kouji",
+  "author": "Seo Kouji",
+  "cover": "https://i.imgur.com/bTo0sYS.png",
+  "chapters": {
+    "<chapter number>": {
+      "title": "How to Use 15 Minutes",
+      "volume": "<volume number>",
+      "groups": {
+        "Gori Gori Scans": "/proxy/api/imgur/chapter/yZ9jxa4/"
+      },
+      "last_updated": "1623129913"
+    },
+  }
+}
