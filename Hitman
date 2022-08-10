@@ -101,13 +101,21 @@
       },
       "last_updated": "1651021764"    
     },
-    "95": {
-      "title": "An Artist's Feelings",
+    "96": {
+      "title": "The Anonymous Author and the Frenchwoman",
       "volume": "10",
       "groups": {
-        "Gori Gori Scans": "/proxy/api/imgur/chapter/QHw5Ncg/"
+        "Gori Gori Scans": "/proxy/api/imgur/chapter/rzRb5z1/"
       },
-      "last_updated": "1656267583"    
+      "last_updated": "1660096921"    
+    },
+    "97": {
+      "title": "An Amateur's Reasons",
+      "volume": "10",
+      "groups": {
+        "Gori Gori Scans": "/proxy/api/imgur/chapter/M6R7rio/"
+      },
+      "last_updated": "1660096921"    
     }
   }
 }
